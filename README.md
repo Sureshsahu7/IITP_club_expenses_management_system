@@ -17,13 +17,20 @@ This is IITP_clubs expenses management_system and
 * [![NodeJs][nodejs.com]][nodejs-url]
 
 
+### Other
+
+* [![Heroku][h.com]][h-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+
+
  <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+[Bootstrap.com]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Bootstrap-url]: https://tailwindcss.com
 [mongo.com]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [mongo-url]: https://mongodb.com
 [express.com]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
