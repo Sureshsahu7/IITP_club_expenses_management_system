@@ -1,4 +1,4 @@
-# IITP_club_expenses_management_sydtem
+# IITP_club_expenses_management_system
  
  ## Description
 
