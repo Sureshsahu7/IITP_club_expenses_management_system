@@ -5,3 +5,44 @@
 This is IITP_clubs expenses management_system and
  Tracker Web App to manage all the Expenditure and  conduct fests and events efficiently in college.
  You can add and delete Expenses easily with different categories.
+ 
+ 
+ ## Built with 
+
+### The MERN Stack
+
+* [![MongoDb][mongo.com]][mongo-url]
+* [![Express][express.com]][express-url]
+* [![ReactJs][react.com]][react-url]
+* [![NodeJs][nodejs.com]][nodejs-url]
+
+
+ <!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[mongo.com]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[mongo-url]: https://mongodb.com
+[express.com]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+[express-url]: https://express.com
+[react.com]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://react.com
+[nodejs.com]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[nodejs-url]: https://nodejs.com
+[css.com]:https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://css.com
+[html.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[html-url]:	https://html.com
+[Js.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[Js-url]: https://javascript.com
+[python.com]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://python.com
+[flask.com]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[flask-url]: https://flask.com
+[h.com]: 	https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+[h-url]: https://heroku.com
+[r.com]: 	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[r-url]: https://heroku.com
