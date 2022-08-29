@@ -6,6 +6,8 @@ This is IITP_clubs expenses management_system and
  Tracker Web App to manage all the Expenditure and  conduct fests and events efficiently in college.
  You can add and delete Expenses easily with different categories.
  
+ The main aim of this project was to solve improper Expense tracking. With the help of this project Club Co-ordinator users can manage their Expenses easily and categorize them in different categories provided in the Webapp. Clubs  can track upto 3 Months of their Expenses which makes it easier for them to plan their Expenses for respective events and fests of college. With the help of charts , data could be visualized far more conveniently.
+ 
  ## View live App
 
 Hosted at **https://iitp-clubs-expenses-management.herokuapp.com**
