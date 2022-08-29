@@ -25,6 +25,65 @@ Hosted at **https://iitp-clubs-expenses-management.herokuapp.com**
 * [![Heroku][h.com]][h-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Sureshsahu7/IITP_club_expenses_management_system.git
+```
+
+Go to the project directory
+
+```bash
+  cd IITP_club_expenses_management_system
+```
+
+
+Install dependencies in project directory
+
+```bash
+  npm install
+```
+Go to the client folder
+
+```bash
+  cd client
+```
+Install dependencies in client
+
+```bash
+  npm install
+```
+
+Start the client react project
+
+```bash
+  npm run start
+```
+
+Come back to project directory
+
+```bash
+  cd ..
+```
+Start Server using node or nodemon
+
+```bash
+  node app.js 
+  or nodemon app.js
+```
+
+
+Please Use Tailwind CSS for styling components
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`SECRET_KEY` : For verifying jwt tokens.
+
+`DATABASE` : contains the dbURI of MongoDB connections
 
 
  <!-- MARKDOWN LINKS & IMAGES -->
