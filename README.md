@@ -10,7 +10,7 @@ This is IITP_clubs expenses management_system and
  
  ## View live App
 
-Hosted at *https://iitp-clubs-expenses-management.herokuapp.com*
+Hosted at *https://worrisome-gear-frog.cyclic.app/*
 
  ## Built with 
 
