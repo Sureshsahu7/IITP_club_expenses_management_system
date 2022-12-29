@@ -31,8 +31,8 @@ Hosted at *https://iitp-clubs-expenses-management.herokuapp.com*
 
 Clone the project
 
-bash
-  git clone https://github.com/Sureshsahu7/IITP_club_expenses_management_system.git
+bash```
+  git clone https://github.com/Sureshsahu7/IITP_club_expenses_management_system.git```
 
 
 Go to the project directory
